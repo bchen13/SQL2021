@@ -1,2 +1,2 @@
-# SQL2021
-SQL Project 2021
+# YouTubeSQL2021
+YouTube SQL Project 2021
